@@ -1,0 +1,48 @@
+.header-nav 
+    {display: flex;
+     justify-content: space-between;
+     margin: 22px 16px 0px 16px ;}
+.logo-dark
+    {width: 89px;
+     height:35px;}
+.btn-1
+    {box-sizing: border-box;
+     background-color: var(--blue-dark);
+     color: white;
+     border-radius: 28px;
+     font-family:"Plus Jakarta Sans";
+     font-weight: 700;
+     line-height: 28px;
+     cursor: pointer;}
+.btn-1:hover
+    { background-color: var(--violet); }
+
+
+.info-service
+    {display: flex;
+     flex-direction: column;
+     align-items: center;}
+
+
+
+.title-info-service
+    {width: 343px;
+     margin-top: 45px;
+     color: var(--blue-dark);
+     font-family: "Plus Jakarta Sans" ;
+     font-size: 40px;
+     font-weight: 800px;
+     text-align: left;}
+
+.text-info-service
+    {width: 343px;
+     margin-top: 26px;
+     text-align: left;
+     color: var(--grey);
+     font-family: "Plus Jakarta Sans";
+     font-weight: 500;}
+
+.btn-2
+    {width: 167px;
+     height: 56px;
+     border-radius: 36.5px;}

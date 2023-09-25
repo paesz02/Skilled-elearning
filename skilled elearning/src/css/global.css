@@ -1,0 +1,14 @@
+:root 
+ {--blue-dark: #13183f;
+  --grey: #83869a;
+  --violet:#666ca3;
+  --pink-dark:#f74780 ;
+  --pink-light: #4d1b2b;
+  }
+
+ul
+{list-style: none;}
+  
+.btn
+ {width: 140px;
+  height: 48px;}
