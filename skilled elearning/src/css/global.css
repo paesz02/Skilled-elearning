@@ -1,3 +1,4 @@
+
 :root 
  {--blue-dark: #13183f;
   --grey: #83869a;
@@ -6,9 +7,40 @@
   --pink-light: #4d1b2b;
   }
 
-ul
-{list-style: none;}
+.heading-l 
+  {font-family: "Plus Jakarta Sans";
+   font-weight: 800;
+   font-size: 40px;}
+
+.heading-m
+   {font-family: "Plus Jakarta Sans";
+    font-weight: 800;
+    font-size: 24px;}
+
+.heading-s 
+    {font-family: "Plus Jakarta Sans";
+     font-weight: 800;
+     font-size: 20px;
+     margin: 24px 0px 16px 0px;}
   
+.text-l
+    {font-family: "Plus Jakarta Sans" ;
+     font-weight: 700;
+     font-size: 18px;
+     }
+
+.text-m
+     {font-family: "Plus Jakarta Sans" ;
+      font-weight: 700;
+      font-size: 16px;
+      }     
+.text-s 
+    { font-family: "Plus Jakarta Sans" ;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 26px;
+      color: var(--grey);
+     }
 .btn
  {width: 140px;
   height: 48px;}
