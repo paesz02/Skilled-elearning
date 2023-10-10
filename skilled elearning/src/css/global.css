@@ -42,5 +42,40 @@
       color: var(--grey);
      }
 .btn
- {width: 140px;
-  height: 48px;}
+    {width: 140px;
+      height: 48px;}
+
+@media (min-width: 1440px)
+    
+  {.heading-l 
+    {font-family: "Plus Jakarta Sans";
+     font-weight: 800;
+     font-size: 56px;}
+
+  .heading-m
+    { font-family: "Plus Jakarta Sans";
+      font-weight: 800;
+      font-size: 32px;}
+
+  .heading-s 
+      {font-family: "Plus Jakarta Sans";
+      font-weight: 800;
+      font-size: 24px;
+      margin: 24px 0px 16px 0px;}
+
+  .text-m
+      {font-family: "Plus Jakarta Sans" ;
+        font-weight: 700;
+        font-size: 18px;
+        }     
+  .text-s 
+      { font-family: "Plus Jakarta Sans" ;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 26px;
+        color: var(--grey);
+      }
+  .btn
+      {width: 167px;
+        height: 56px;}
+      }
