@@ -1,0 +1,30 @@
+@media (min-width:768px)
+
+  {.content-website
+      {overflow: hidden;}
+
+   .title-info-service
+      {width: 328px;
+      margin-top: 99px;
+      color: var(--blue-dark);
+      text-align: left;}
+   
+   .image-hero
+      {display: none;}   
+   
+   .container-img-info-service
+      {position: relative;}
+   
+   .image-hero-tablet
+      {display: block;
+       position: absolute;
+       width: 641px;
+       height: 640px;
+       top: -488px;
+       right: -268px;
+       
+       }
+
+   .courses
+      {margin-top: 210px;}
+  }
