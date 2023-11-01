@@ -18,6 +18,10 @@
     { background-color: var(--violet); }
 
 
+.container-info-service
+    {width: 344px;
+     margin: 0px auto;}
+
 .title-info-service
     {width: 343px;
      margin-top: 45px;
@@ -45,10 +49,14 @@
         linear-gradient(0deg, rgba(255, 255, 255, 0.5) , rgba(255, 255, 255, 0.50)), 
         linear-gradient(180deg, #FF6F48, #F02AA6 );}
 
+.container-img-info-service
+    {width: 327px;
+     margin: 0px auto;}
 .image-hero
     {width:327px;
      height: 301px;
-     margin-top: 46px;}
+     margin-top: 46px;
+     }
 
 .image-hero-tablet
     {display: none;}

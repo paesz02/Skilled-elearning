@@ -13,17 +13,23 @@
       {display: none;}   
    
    .container-img-info-service
-      {position: relative;}
+      {position: relative;
+       width: 641px;
+       margin:0px 0px;
+       width: 100%;}
    
    .image-hero-tablet
       {display: block;
        position: absolute;
        width: 641px;
        height: 640px;
-       top: -488px;
-       right: -268px;
+       top: -500px;
+       right: -297px;
        
        }
+
+.container-info-service
+      {margin-left: 37px;}
 
    .courses
       {margin-top: 210px;}
