@@ -31,6 +31,27 @@
 .container-info-service
       {margin-left: 37px;}
 
-   .courses
-      {margin-top: 210px;}
+.courses
+   {
+    width:690px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10px;
+    margin: 0px auto;
+    margin-top: 210px;
+    
+   }
+
+.header-courses
+   {width: 339px;
+    height: 259px;
+    margin-top: 42px;}
+
+.course
+   {width:339px ;
+    margin-top: 46px;
+   }
+
+
   }
